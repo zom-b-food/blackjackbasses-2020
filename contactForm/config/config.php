@@ -2,11 +2,11 @@
 
 return [
     'subject' => [
-        'prefix' => '[Web Page Contact Form] blackjackbasses.com'
+        'prefix' => '[blackjackbasses.com Web Page Contact Form]'
     ],
     'emails' => [
         'to'   => 'dd@blackjackbasses.com',
-        'from' => '[Web Page Contact Form] blackjackbasses.com'
+        'from' => '[Web Page Contact Form] from blackjackbasses.com'
     ],
     'messages' => [
         'error'   => 'There was an error sending your message, please try again later.',

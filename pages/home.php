@@ -85,7 +85,7 @@
         <hr />
         <section id="contact" class="scrollspy animatedParent section-padding banner-4 parallax-bg bg-fixed overlay"
             data-stellar-background-ratio="0.5">
-            <?php include '../inc/contact.php'; ?>
+            <?php include '../inc/reachout.php'; ?>
         </section>
 
         <hr />

@@ -1,22 +1,23 @@
 <div class="container animated fadeInUp">
-    <div class="mb-30">
+    <div class="col-md-12 mb-30">
         <h2 class="section-title text-center">Reach Out</h2>
-        <p class="section-sub">Buying, building, customizing, playing, loving and re-homing great basses. I am fortunate
+        <p>Buying, building, customizing, playing, loving and re-homing great basses. I am fortunate
             to do what I love which is family and basses. I've been playing since High School and for the past several
             years I've been doing BlackJack Basses and have found home.</p>
         <hr class="testimony" />
-        <p class="section-sub" style="padding-top:20px;">Get your Bass by browsing my storefront on Reverb (click "Shop
+        <p style="padding-top:20px;">Get your Bass by browsing my storefront on Reverb (click "Shop
             Now" to see what I have available). Or complete the form below if you have any comments or
             suggestions.<br />Always yours, David Drake </p>
     </div>
+
+
     <div class="row">
-        <div class="col-md-2">&nbsp;</div>
-        <div class="col-md-5">
-            <iframe id="contact" class="contact-info" width="100%" height="580" src="../contact/contactForm/index.php"
+        <div class="col-md-8">
+            <iframe id="contact" class="contact-info" width="100%" height="580" src="../contactForm/index.php"
                 overflow="hidden" scrolling="no" frameborder="0" allowfullscreen></iframe>
         </div>
-        <!-- /.col-md-8 -->
-        <div class="col-md-5 contact-info ">
+        <div class="col-md-1">&nbsp;</div>
+        <div class="col-md-3 contact-info ">
             <address>
                 <i class="material-icons melon-link">&#xE8B4;</i>
                 <div class="address">
@@ -42,7 +43,6 @@
             </address>
         </div>
     </div>
-    <!-- /.row -->
 </div>
 <hr class="testimony" />
 <div class="links-sites">
